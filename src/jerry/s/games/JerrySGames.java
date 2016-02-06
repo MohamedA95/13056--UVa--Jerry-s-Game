@@ -1,4 +1,3 @@
-package jerry.s.games;
 
 import java.io.IOException;
 import java.nio.file.Paths;
